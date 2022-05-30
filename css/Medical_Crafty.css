@@ -1,0 +1,28 @@
+body{
+    font-family: "Montserrat","sans-serif";
+    background-color: rgb(255, 72, 0);
+}
+
+.primaryColor{
+    background-color: #474FA0;
+}
+
+header{
+    background-color: beige;
+}
+
+.navbar-col{
+    display: inline-flex;
+}
+
+.btn_join{
+    font-weight:bold;
+    font-size: 14px;
+    width: 137px;
+    height: 52px;
+    border-radius: 5px;
+}
+.rightArrow{
+    margin-left: 10px;
+    margin-bottom:2px;
+}
